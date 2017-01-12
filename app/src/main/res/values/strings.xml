@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name" translatable="false">Stock Hawk</string>
+
+    <string name="action_example" translatable="false">Example action</string>
+
+    <string name="action_settings" >Settings</string>
+    <string name="action_change_units" >Change Units</string>
+    <string name="symbol_search" >Symbol Search</string>
+    <string name="content_test" translatable="false">Search for a Stock Symbol</string>
+    <string name="input_hint" translatable="false">FB</string>
+    <string name="input_prefill" translatable="false"></string>
+    <string name="network_toast">Uh-oh! This app requires an internet connection</string>
+
+    <string name="add_widget" translatable="false">Add widget</string>
+    <string name="historical_data_chart" translatable="false"> last 12 month daily high linechart</string>
+    <string name="_ID" translatable="false">_id</string>
+    <string name="Symbol" translatable="false">symbol</string>
+    <string name="Percent_change" translatable="false">percent_change</string>
+    <string name="Change" translatable="false">change</string>
+    <string name="Bidprice" translatable="false">bid_price</string>
+    <string name="Created" translatable="false">created</string>
+    <string name="IsUp" translatable="false">is_up</string>
+    <string name="IsCurrent" translatable="false">is_current</string>
+    <string name="stock_status_key" translatable="false">stock_status_key</string>
+    <string name ="tag" translatable="false">tag</string>
+    <string name="init" translatable="false">init</string>
+    <string name="stock_saved" translatable="false">This stock is already saved!</string>
+    <string name="add" translatable="false">add</string>
+    <string name="periodicTag" translatable="false">periodic</string>
+    <string name="err_Server_down">Server down!</string>
+    <string name="err_Server_Invalid">STATUS_SERVER_INVALID!</string>
+    <string name="err_unknown">Unknow problem!</string>
+    <string name="string_no_internet">No Internet Connection!</string>
+    <string name="invalid_symbol">Invalid symbol"</string>
+    <string name= "try_again">Try again!</string>
+    <string name="Historial_High">Historial_High</string>
+    <string name="string_date">Date</string>
+</resources>
